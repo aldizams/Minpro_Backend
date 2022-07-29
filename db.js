@@ -4,7 +4,7 @@ const pool = new Pool({
 	user: 'postgres',
 	host: 'localhost',
 	database: 'toko_db',
-	password: '513077885693',
+	password: '',
 	port: 5432,
 });
 
